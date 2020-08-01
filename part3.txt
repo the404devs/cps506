@@ -1,0 +1,8 @@
+The Haskell implementation is much more efficient in terms of the amount of code written, 
+however the Rust version I personally find to be more readable and easier to understand.
+Things that would normally take up a few lines of code in an imperative language can be reduced
+to one-liners in Haskell, leading to a much more efficient style of programming, at the cost of readability.
+The Haskell version of this program also is quicker to execute compared to its Rust counterpart, because 
+of Haskell's 'lazy evaluation' approach (expressions aren't evaluated until absolutely necessary ). 
+In my opinion, the Rust implementation was easier to wrap my head around simply because Rust is an imperative 
+language, the type with which I have the most experience. 
